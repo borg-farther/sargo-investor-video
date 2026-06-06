@@ -1,1 +1,2 @@
-25d872a095e58ea47580ebeeda4ee0b9c807aa0048635630286df5e68c2c6f53  /root/hermes-workspace/sargo-investor-video/public-link/sargo-investor-overview.mp4
+547d0175eb67736e36b8a8fd979d1dab848ee80a17b9953d4a08773c8b01ba01  sargo-investor-overview.mp4
+220d500c3b7f4371cff86ec177a4be1187c23b3577bce90181bd33bafe6141c4  poster.png

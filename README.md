@@ -1,7 +1,17 @@
 # Sargo Investor Overview Video
 
-Public viewing page for the Sargo 30-second investor overview MP4.
+Public viewing page for the Sargo investor overview MP4.
 
 - Video: `sargo-investor-overview.mp4`
-- Duration: 29.52 seconds
-- SHA256: `25d872a095e58ea47580ebeeda4ee0b9c807aa0048635630286df5e68c2c6f53`
+- Duration: `55.521029s`
+- Resolution: `1920x1080`
+- Frame rate: `30fps`
+- Codecs: `H.264/AAC`
+- Size: `10,142,438 bytes`
+- SHA256: `547d0175eb67736e36b8a8fd979d1dab848ee80a17b9953d4a08773c8b01ba01`
+
+## Links
+
+- Sargo: https://sargo.io
+- Dune: https://dune.com/sargo_team/sargo
+- Deck: https://www.papermark.com/view/cmq10mgq4000bjv04a41z13g8
